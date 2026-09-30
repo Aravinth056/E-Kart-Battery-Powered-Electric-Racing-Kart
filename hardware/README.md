@@ -181,23 +181,3 @@ The HLV and GLV systems are electrically separated for safety.
 | Electronics / Safety | 10% |
 | Brakes | 5% |
 
----
-
-## 📷 Component Images
-
-Recommended images for this folder:
-
-```text
-component-images/
-├── motor.jpg
-├── motor-controller.jpg
-├── battery-pack.jpg
-├── bms.jpg
-├── dc-dc-converter.jpg
-├── sprocket.jpg
-├── drive-shaft.jpg
-├── brake-disc.jpg
-├── steering-system.jpg
-├── chassis.jpg
-├── wheels-tyres.jpg
-└── electrical-safety-components.jpg
